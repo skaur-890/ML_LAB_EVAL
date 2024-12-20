@@ -22,7 +22,7 @@
     ○ Predictions are made on the entire dataset using predict_model.  
 
 4. Results and Metrics:  
-    ○ Performance metrics (R2, MAE, MSE,RMSE,MAPE) are collected for each model.  
+    ○ Performance metrics (R2, MAE, MSE, RMSE) are collected for each model.  
    
 ## Detailed Result Analysis:    
 ![image](https://github.com/user-attachments/assets/62538cf8-0148-4182-97f3-a65cbcbfb10a)
