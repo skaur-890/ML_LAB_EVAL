@@ -8,11 +8,11 @@
      ○ Columns ('Target1', 'Target2', 'Target4', 'Target5') are dropped according to 
        instructions.  
      ○ PyCaret's setup function is used for preprocessing, including:  
-               > -Data splitting (70% train, 30% test)  
-               >> -Normalization (Robust scaler)  
-               >> -Transformation (Yeo-Johnson)  
-               >> -PCA (Incremental)  
-               >> -Outlier removal (5% threshold)  
+                  -Data splitting (70% train, 30% test)  
+                  -Normalization (Robust scaler)  
+                  -Transformation (Yeo-Johnson)  
+                  -PCA (Incremental)  
+                  -Outlier removal (5% threshold)  
 
 2. Model Comparison and Selection:  
     ○ PyCaret's compare_models function is used to evaluate various regression models.
