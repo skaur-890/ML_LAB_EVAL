@@ -4,9 +4,9 @@
 ## Methodology
 
 1. Data Loading and Preprocessing:
-     ○ The dataset is loaded using Pandas.
+     ○ The dataset is loaded using Pandas.  
      ○ Columns ('Target1', 'Target2', 'Target4', 'Target5') are dropped according to 
-       instructions.
+       instructions.  
      ○ PyCaret's setup function is used for preprocessing, including:
             -Data splitting (70% train, 30% test)
             -Normalization (Robust scaler)
@@ -30,7 +30,7 @@
 
 
 #Results
-The best-performing model is Linear Regression with an R-squared value of
+The best-performing model is Linear Regression with an R-squared value of 0.2540
 
 
 
