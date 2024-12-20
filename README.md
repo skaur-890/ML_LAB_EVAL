@@ -33,7 +33,7 @@
 
 
 ## Results:  
-The best-performing model is Random Forest with an R-squared value of 0.9367.
+The best-performing model is Random Forest with an Linear Regression value of 0.2646.
 
 
 
