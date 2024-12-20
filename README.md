@@ -1,4 +1,4 @@
-ML-LAB-EVAL
+#ML-LAB-EVAL
 This work is submitted for the lab evaluation of the Machine Learning (UML501) course. This project aims to predict the performance of a fuel cell using machine learning techniques.
 Methodology
 
